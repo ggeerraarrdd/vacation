@@ -75,7 +75,7 @@ Some of the forms require certain user info to function properly. So you might e
 
 ### Initial Release
 
-The [initial realease](https://github.com/ggeerraarrdd/geo50x/releases/tag/v1.0.0) of _VRTechnologies_ was submitted as the final project for [IS 421: Systems Analysis and Design](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?Subject=IS&CatalogNbr=421) (DePaul University, 2023).
+The [initial realease](https://github.com/ggeerraarrdd/vacation/releases/tag/v1.0.0) of _VRTechnologies_ was submitted as the final project for [IS 421: Systems Analysis and Design](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?Subject=IS&CatalogNbr=421) (DePaul University, 2023).
 
 ### Future Work
 
