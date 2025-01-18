@@ -158,4 +158,4 @@ _The customer dashboard for use by an implementation project manager._
 
 ## Frontispiece
 
-Screenshot of Login page of _VRTechnologies_. Image taken from the database application interface (Personal Collection, 2023). In the public domain.
+Screenshot of Login page of _VRTechnologies_. Image taken from the information system interface on MS Access (Personal Collection, 2023). In the public domain.
