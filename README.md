@@ -136,7 +136,7 @@ This project is not accepting contributions at this time. It is intended solely 
 
 ## Acknowledgments
 
-* The sprawling, seemingly inexhaustible ecosystem of StackOverflow [Q&As](https://meta.stackoverflow.com/questions/267822/if-stack-overflow-doesnt-have-threads-what-the-heck-should-they-be-called), Medium articles and online tech how-to boutiques—-too many to mention here separately
+* The sprawling, seemingly inexhaustible ecosystem of StackOverflow [Q&As](https://meta.stackoverflow.com/questions/267822/if-stack-overflow-doesnt-have-threads-what-the-heck-should-they-be-called), Medium articles and online tech how-to boutiques—too many to mention here separately
 * Charlie Nuttelman's 3-course series [Excel/VBA for Creative Problem Solving Specialization](https://www.coursera.org/specializations/excel-vba-creative-problem-solving) on Coursera helped me cracked VBA.
   
 ## Screenshots
