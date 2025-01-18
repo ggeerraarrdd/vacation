@@ -1,6 +1,6 @@
 # VRTechnologies
 
-A prototype information system for data sourcing and data quality assurance
+A prototype information system for data sourcing, data quality assurance and business intelligence
 
 ## Description
 
@@ -132,7 +132,7 @@ No ongoing development.
 
 ## Contributing
 
-* TBD
+This project is not accepting contributions at this time. It is intended solely for personal learning and exploration. However, feel free to clone the repository and use it as a learning resource.
 
 ## Acknowledgments
 
@@ -157,4 +157,4 @@ _The customer dashboard for use by an implementation project manager._
 
 ## Frontispiece
 
-* TBD
+Screenshot of Login page of _VRTechnologies_. Image taken from the database application interface (Personal Collection, 2023). In the public domain.
