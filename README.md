@@ -4,6 +4,9 @@ A prototype information system for data sourcing and data quality assurance
 
 ## Description
 
+> [!NOTE]
+> ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
+
 _VRTechnologies_ is a prototype information system for data sourcing and quality assurance at a fictional start-up company in the home sharing industry. It was developed using MS Access and VBA.
 
 The features of the system are based on business requirements as captured in the following user stories:
@@ -17,13 +20,27 @@ The features of the system are based on business requirements as captured in the
 
 All user stories were implemented except for #4 and #6, which is partially implemented without live data.
 
-![Screenshot](/images/vrt01.jpg)
+![Screenshot](/docs/vrt01.jpg)
 
 More screenshots below.
 
-## Disclaimer
+## Table of Contents
 
-ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
+* TBD
+
+## Features
+
+* TBD
+
+## Project Structure
+
+* NA
+
+## Prerequisities
+
+Before you begin, ensure you have met the following requirements:
+
+* Microsoft Access 2019 (version 16.0) or later
 
 ## Getting Started
 
@@ -31,37 +48,39 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 
 * None
 
+### Installation
+
+1. **Download the file**
+
+    You do not need to clone the repo. Simply download `vrtechnologies.accdb`.
+
+### Configuration
+
 ### Usage
 
-1. Clone it!
+1. **Open `vrtechnologies.accdb` on MS Access**
 
-    ```bash
-    git clone https://github.com/ggeerraarrdd/vacation.git
-    ```
-
-2. Go into the project directory and open `vrtechnologies.accdb` on MS Access.
-
-3. Click the `Enable Content` button if you get the following message:
+    Click the `Enable Content` button if you get the following message:
 
     ```text
     SECURITY WARNING Some active content has been disabled. Click for more details.
     ```
 
-4. In the Navigation Pane and under Forms, double click `frm_1_login`.
+2. **Pre-login process**
 
-5. Go to Home > Views to make sure you are in "Form View". Otherwise change to that view.
+    * In the Navigation Pane and under Forms, double click `frm_1_login`.
 
-### Logging In
+    * Go to Home > Views to make sure you are in "Form View". Otherwise change to that view.
 
-The system as prototyped supports four business users: Operations Manager, Data Analyst, QA Analyst and Implementation Project Manager.
+3. **Log in**
 
-For their user stories, click on any of the tabs numbered 1-6. There are yellow buttons labeled with the business user whose system requirements are captured by the user story in one of tabs. Click the button to populate the form fields with their login credentials.
+    * The system as prototyped supports four business users: Operations Manager, Data Analyst, QA Analyst and Implementation Project Manager.
 
-You can also click any of the yellow buttons below the login form.
+    * For their user stories, click on any of the tabs numbered 1-6. There are yellow buttons labeled with the business user whose system requirements are captured by the user story in one of tabs. Click the button to populate the form fields with their login credentials.
 
-### Note
+    * You can also click any of the yellow buttons below the login form.
 
-Some of the forms require certain user info to function properly. So you might encounter an error if you open them without first going through the login process, which normally you would not be able to do with a real-world system. Closing all open forms and going back to the login page should resolve most errors.
+    * **Note:** Some of the forms require certain user info to function properly. So you might encounter an error if you open them without first going through the login process, which normally you would not be able to do with a real-world system. Closing all open forms and going back to the login page should resolve most errors.
 
 ## Author(s)
 
@@ -77,7 +96,7 @@ Some of the forms require certain user info to function properly. So you might e
 
 The [initial realease](https://github.com/ggeerraarrdd/vacation/releases/tag/v1.0.0) of _VRTechnologies_ was submitted as the final project for [IS 421: Systems Analysis and Design](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?Subject=IS&CatalogNbr=421) (DePaul University, 2023).
 
-### Future Work
+## Future Work
 
 No ongoing development.
 
@@ -85,23 +104,31 @@ No ongoing development.
 
 * [MIT License](https://github.com/ggeerraarrdd/large-parks/blob/main/LICENSE)
 
+## Contributing
+
+* TBD
+
 ## Acknowledgments
 
 * Too many StackOverflow [Q&As](https://meta.stackoverflow.com/questions/267822/if-stack-overflow-doesnt-have-threads-what-the-heck-should-they-be-called), Medium articles and online tech how-to boutiques to mention but Charlie Nuttelman's 3-course series [Excel/VBA for Creative Problem Solving Specialization](https://www.coursera.org/specializations/excel-vba-creative-problem-solving) on Coursera helped me cracked VBA.
   
 ## Screenshots
 
-![Screenshot](/images/vrt02.jpg)
-*After login, the dashboard for an operations manager.*
+![Screenshot](/docs/vrt02.jpg)
+_After login, the dashboard for an operations manager._
 
-![Screenshot](/images/vrt03.jpg)
-*The GUI for data sourcing by a data analyst.*
+![Screenshot](/docs/vrt03.jpg)
+_The GUI for data sourcing by a data analyst._
 
-![Screenshot](/images/vrt04.jpg)
-*The GUI for data quality assurance by a QA analyst.*
+![Screenshot](/docs/vrt04.jpg)
+_The GUI for data quality assurance by a QA analyst._
 
-![Screenshot](/images/vrt05.jpg)
-*The dashboard for KPI of data and QA analysts for use by an operations manager.*
+![Screenshot](/docs/vrt05.jpg)
+_The dashboard for KPI of data and QA analysts for use by an operations manager._
   
-![Screenshot](/images/vrt06.jpg)
-*The customer dashboard for use by an implementation project manager.*
+![Screenshot](/docs/vrt06.jpg)
+_The customer dashboard for use by an implementation project manager._
+
+## Frontispiece
+
+* TBD
