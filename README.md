@@ -63,8 +63,8 @@ More screenshots below.
 
 Before you begin, ensure you have met the following requirements:
 
-* [Microsoft Access 2021](https://www.microsoft.com/en-us/microsoft-365/access) or later
-* Windows 11
+* [Microsoft Access 2021](https://www.microsoft.com/en-us/microsoft-365/access) (other versions untested)
+* Windows 11 (other versions untested)
 
 ## Getting Started
 
@@ -96,11 +96,11 @@ Before you begin, ensure you have met the following requirements:
 
     * In the Navigation Pane and under Forms, double click `frm_1_login`.
 
-    * Go to Home > Views to make sure you are in "Form View". Otherwise change to that view.
+    * Go to `Home > Views` to make sure you are in "Form View". Otherwise change to that view.
 
 3. **Log in**
 
-    * The system as prototyped supports four business users: Operations Manager, Data Analyst, QA Analyst and Implementation Project Manager.
+    * The system as prototyped presumes four business users: Operations Manager, Data Analyst, QA Analyst and Implementation Project Manager.
 
     * For their user stories, click on any of the tabs numbered 1-6. There are yellow buttons labeled with the business user whose system requirements are captured by the user story in one of tabs. Click the button to populate the form fields with their login credentials.
 
@@ -120,7 +120,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Initial Release
 
-The [initial realease](https://github.com/ggeerraarrdd/vacation/releases/tag/v1.0.0) of _VRTechnologies_ was submitted as the final project for [IS 421: Systems Analysis and Design](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?Subject=IS&CatalogNbr=421) (DePaul University, 2023).
+The [initial realease](https://github.com/ggeerraarrdd/vacation/releases/tag/v1.0.0) of _VRTechnologies_ was submitted as a final project for [IS 421: Systems Analysis and Design](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?Subject=IS&CatalogNbr=421) (DePaul University, 2023).
 
 ## Future Work
 
@@ -136,7 +136,8 @@ This project is not accepting contributions at this time. It is intended solely 
 
 ## Acknowledgments
 
-* Too many StackOverflow [Q&As](https://meta.stackoverflow.com/questions/267822/if-stack-overflow-doesnt-have-threads-what-the-heck-should-they-be-called), Medium articles and online tech how-to boutiques to mention but Charlie Nuttelman's 3-course series [Excel/VBA for Creative Problem Solving Specialization](https://www.coursera.org/specializations/excel-vba-creative-problem-solving) on Coursera helped me cracked VBA.
+* The sprawling, seemingly inexhaustible ecosystem of StackOverflow [Q&As](https://meta.stackoverflow.com/questions/267822/if-stack-overflow-doesnt-have-threads-what-the-heck-should-they-be-called), Medium articles and online tech how-to boutiques—-too many to mention here separately
+* Charlie Nuttelman's 3-course series [Excel/VBA for Creative Problem Solving Specialization](https://www.coursera.org/specializations/excel-vba-creative-problem-solving) on Coursera helped me cracked VBA.
   
 ## Screenshots
 
