@@ -26,21 +26,45 @@ More screenshots below.
 
 ## Table of Contents
 
-* TBD
+* [Description](#description)
+* [Features](#features)
+* [Project Structure](#project-structure)
+* [Prerequisites](#prerequisites)
+* [Getting Started](#getting-started)
+  * [Dependencies](#dependencies)
+  * [Installation](#installation)
+  * [Configuration](#configuration)
+  * [Usage](#usage)
+* [Author(s)](#authors)
+* [Version History](#version-history)
+  * [Release Notes](#release-notes)
+  * [Initial Release](#initial-release)
+* [Future Work](#future-work)
+* [License](#license)
+* [Contributing](#contributing)
+* [Acknowledgments](#acknowledgments)
+* [Screenshots](#screenshots)
 
 ## Features
 
-* TBD
+* Data Entry System - Allows business users to input and save property location details
+* QA Review Dashboard - Interface for QA analysts to review submitted property addresses
+* Quality Validation Framework - Tools for correcting errors while ensuring data integrity
+* Implementation Progress Dashboard - Visual tracking of data sourcing progress by customer
+* Performance Analytics Dashboard - Displays KPIs for business users
+* Customer Portfolio Management - Tools for tracking implementation timelines and progress
+* Batch Processing Capability - Ability to handle multiple property entries efficiently
 
 ## Project Structure
 
 * NA
 
-## Prerequisities
+## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-* Microsoft Access 2019 (version 16.0) or later
+* [Microsoft Access 2021](https://www.microsoft.com/en-us/microsoft-365/access) or later
+* Windows 11
 
 ## Getting Started
 
@@ -55,6 +79,8 @@ Before you begin, ensure you have met the following requirements:
     You do not need to clone the repo. Simply download `vrtechnologies.accdb`.
 
 ### Configuration
+
+* None
 
 ### Usage
 
