@@ -2,10 +2,32 @@
 
 A prototype information system for data sourcing, data quality assurance and business intelligence
 
-## Description
+## Table of Contents
 
 > [!NOTE]
 > ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
+
+* [Description](#description)
+* [Features](#features)
+* [Project Structure](#project-structure)
+* [Prerequisites](#prerequisites)
+* [Getting Started](#getting-started)
+  * [Dependencies](#dependencies)
+  * [Installation](#installation)
+  * [Configuration](#configuration)
+* [Usage](#usage)
+* [System Administration](#system-administration)
+* [Author(s)](#authors)
+* [Version History](#version-history)
+  * [Release Notes](#release-notes)
+  * [Initial Release](#initial-release)
+* [Future Work](#future-work)
+* [License](#license)
+* [Contributing](#contributing)
+* [Acknowledgments](#acknowledgments)
+* [Screenshots](#screenshots)
+
+## Description
 
 _VRTechnologies_ is a prototype information system for data sourcing and quality assurance at a fictional start-up company in the home sharing industry. It was developed using MS Access and VBA.
 
@@ -22,38 +44,22 @@ All user stories were implemented except for #4 and #6, which is partially imple
 
 ![Screenshot](/docs/vrt01.jpg)
 
-More screenshots below.
+## Target users
 
-## Table of Contents
+_VRTechnologies_ is intended for:
 
-* [Description](#description)
-* [Features](#features)
-* [Project Structure](#project-structure)
-* [Prerequisites](#prerequisites)
-* [Getting Started](#getting-started)
-  * [Dependencies](#dependencies)
-  * [Installation](#installation)
-  * [Configuration](#configuration)
-  * [Usage](#usage)
-* [Author(s)](#authors)
-* [Version History](#version-history)
-  * [Release Notes](#release-notes)
-  * [Initial Release](#initial-release)
-* [Future Work](#future-work)
-* [License](#license)
-* [Contributing](#contributing)
-* [Acknowledgments](#acknowledgments)
-* [Screenshots](#screenshots)
+* **Information Systems students** wanting to understand the practical application of business requirements to information system design.
+* **Self-directed learners** exploring MS Access and VBA as a platform for business information systems.
 
 ## Features
 
-* Data Entry System - Allows business users to input and save property location details
-* QA Review Dashboard - Interface for QA analysts to review submitted property addresses
-* Quality Validation Framework - Tools for correcting errors while ensuring data integrity
-* Implementation Progress Dashboard - Visual tracking of data sourcing progress by customer
-* Performance Analytics Dashboard - Displays KPIs for business users
-* Customer Portfolio Management - Tools for tracking implementation timelines and progress
-* Batch Processing Capability - Ability to handle multiple property entries efficiently
+* 📝 **Data Entry System** - Allows business users to input and save property location details
+* 🕵️ **QA Review Dashboard** - Interface for QA analysts to review submitted property addresses
+* ✅ **Quality Validation Framework** - Tools for correcting errors while ensuring data integrity
+* 📊 **Implementation Progress Dashboard** - Visual tracking of data sourcing progress by customer
+* 📈 **Performance Analytics Dashboard** - Displays KPIs for business users
+* 🗂️ **Customer Portfolio Management** - Tools for tracking implementation timelines and progress
+* ⚡ **Batch Processing Capability** - Ability to handle multiple property entries efficiently
 
 ## Project Structure
 
@@ -82,7 +88,7 @@ Before you begin, ensure you have met the following requirements:
 
 * None
 
-### Usage
+## Usage
 
 1. **Open `vrtechnologies.accdb` on MS Access**
 
@@ -108,6 +114,10 @@ Before you begin, ensure you have met the following requirements:
 
     * **Note:** Some of the forms require certain user info to function properly. So you might encounter an error if you open them without first going through the login process, which normally you would not be able to do with a real-world system. Closing all open forms and going back to the login page should resolve most errors.
 
+## System Administration
+
+* TBD
+
 ## Author(s)
 
 * [@ggeerraarrdd](https://github.com/ggeerraarrdd/)
@@ -120,7 +130,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Initial Release
 
-The [initial realease](https://github.com/ggeerraarrdd/vacation/releases/tag/v1.0.0) of _VRTechnologies_ was submitted as a final project for [IS 421: Systems Analysis and Design](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?Subject=IS&CatalogNbr=421) (DePaul University, 2023).
+The [initial release](https://github.com/ggeerraarrdd/vacation/releases/tag/v1.0.0) of _VRTechnologies_ was submitted as a final project for [IS 421: Systems Analysis and Design](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?Subject=IS&CatalogNbr=421) (DePaul University, 2023).
 
 ## Future Work
 
