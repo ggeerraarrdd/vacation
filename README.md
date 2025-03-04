@@ -8,14 +8,17 @@ A prototype information system for data sourcing, data quality assurance and bus
 > ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 
 * [Description](#description)
+* [Target Users](#target-users)
 * [Features](#features)
 * [Project Structure](#project-structure)
-* [Prerequisites](#prerequisites)
-* [Getting Started](#getting-started)
+* [Quick Start](#quick-start)
+* [Local Setup](#local-setup)
+  * [Prerequisites](#prerequisites)
   * [Dependencies](#dependencies)
   * [Installation](#installation)
   * [Configuration](#configuration)
 * [Usage](#usage)
+* [Production Setup](#production-setup)
 * [System Administration](#system-administration)
 * [Author(s)](#authors)
 * [Version History](#version-history)
@@ -42,7 +45,7 @@ The features of the system are based on business requirements as captured in the
 
 All user stories were implemented except for #4 and #6, which is partially implemented without live data.
 
-![Screenshot](/docs/vrt01.jpg)
+![Screenshot](/assets/vrt01.jpg)
 
 ## Target users
 
@@ -65,14 +68,28 @@ _VRTechnologies_ is intended for:
 
 * NA
 
-## Prerequisites
+## Quick Start
+
+1. **Installation**
+
+   * Download `vrtechnologies.accdb` file directly (no repository cloning needed)
+
+2. **Running the Application**
+
+   * Open the file in MS Access
+   * Click "Enable Content" when prompted
+   * Navigate to Forms in the Navigation Pane and double-click `frm_1_login`
+   * Ensure you're in "Form View" (Home > Views)
+   * Use one of the yellow buttons to log in as a specific user type
+
+## Local Setup
+
+### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
 * [Microsoft Access 2021](https://www.microsoft.com/en-us/microsoft-365/access) (other versions untested)
 * Windows 11 (other versions untested)
-
-## Getting Started
 
 ### Dependencies
 
@@ -114,9 +131,13 @@ Before you begin, ensure you have met the following requirements:
 
     * **Note:** Some of the forms require certain user info to function properly. So you might encounter an error if you open them without first going through the login process, which normally you would not be able to do with a real-world system. Closing all open forms and going back to the login page should resolve most errors.
 
+## Production Setup
+
+* NA
+
 ## System Administration
 
-* TBD
+* NA
 
 ## Author(s)
 
@@ -151,19 +172,19 @@ This project is not accepting contributions at this time. It is intended solely 
   
 ## Screenshots
 
-![Screenshot](/docs/vrt02.jpg)
+![Screenshot](/assets/vrt02.jpg)
 _After login, the dashboard for an operations manager._
 
-![Screenshot](/docs/vrt03.jpg)
+![Screenshot](/assets/vrt03.jpg)
 _The GUI for data sourcing by a data analyst._
 
-![Screenshot](/docs/vrt04.jpg)
+![Screenshot](/assets/vrt04.jpg)
 _The GUI for data quality assurance by a QA analyst._
 
-![Screenshot](/docs/vrt05.jpg)
+![Screenshot](/assets/vrt05.jpg)
 _The dashboard for KPI of data and QA analysts for use by an operations manager._
   
-![Screenshot](/docs/vrt06.jpg)
+![Screenshot](/assets/vrt06.jpg)
 _The customer dashboard for use by an implementation project manager._
 
 ## Frontispiece
