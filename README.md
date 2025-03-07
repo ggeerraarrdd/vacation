@@ -70,11 +70,13 @@ _VRTechnologies_ is intended for:
 
 ## Quick Start
 
-1. **Installation**
+For those who want to get up and running quickly with default settings:
+
+1. **Download the file**
 
    * Download `vrtechnologies.accdb` file directly (no repository cloning needed)
 
-2. **Running the Application**
+2. **Running the application**
 
    * Open the file in MS Access
    * Click "Enable Content" when prompted
@@ -173,19 +175,19 @@ This project is not accepting contributions at this time. It is intended solely 
 ## Screenshots
 
 ![Screenshot](/assets/vrt02.jpg)
-_After login, the dashboard for an operations manager._
+_(After login, the dashboard for an operations manager.)_
 
 ![Screenshot](/assets/vrt03.jpg)
-_The GUI for data sourcing by a data analyst._
+_(The GUI for data sourcing by a data analyst.)_
 
 ![Screenshot](/assets/vrt04.jpg)
-_The GUI for data quality assurance by a QA analyst._
+_(The GUI for data quality assurance by a QA analyst.)_
 
 ![Screenshot](/assets/vrt05.jpg)
-_The dashboard for KPI of data and QA analysts for use by an operations manager._
+_(The dashboard for KPI of data and QA analysts for use by an operations manager.)_
   
 ![Screenshot](/assets/vrt06.jpg)
-_The customer dashboard for use by an implementation project manager._
+_(The customer dashboard for use by an implementation project manager.)_
 
 ## Frontispiece
 
