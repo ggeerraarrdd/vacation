@@ -1,3 +1,9 @@
+<!-- markdownlint-disable MD041 -->
+[![GitHub release](https://img.shields.io/github/v/release/ggeerraarrdd/vacation)](https://github.com/ggeerraarrdd/vacation/releases)
+[![Maintenance](https://img.shields.io/badge/maintained-no-red.svg)](https://github.com/ggeerraarrdd/vacation/graphs/commit-activity)
+![Static Badge](https://img.shields.io/badge/repo_code-archive_only-blue)
+<!-- markdownlint-enable MD041 -->
+
 # VRTechnologies
 
 A prototype information system for data sourcing, data quality assurance and business intelligence
